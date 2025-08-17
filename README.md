@@ -6,13 +6,13 @@ Welcome to my GitHub profile! I’m passionate about building robust, scalable b
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me  
 
-- **Phone:** +91-7200439188
+- 📞 **Phone:** [+91-7200439188](tel:+917200439188)  
+- 💼 **LinkedIn:** [linkedin.com/in/santosh-kumar-panda](https://www.linkedin.com/in/santosh-kumar-panda-67b9691a6/)  
+- 📧 **Email:** [santoshpanda025@gmail.com](mailto:santoshpanda025@gmail.com)  
+- 🐙 **GitHub:** [github.com/Santosh-Kumar-Panda](https://github.com/santoshk23)  
 
 ---
 
-<!--
-Want to know more or collaborate? Feel free to reach out!
-If you’d like to add favorite projects, social links, or a fun fact, let me know and I’ll update this README for you.
--->
+⭐️ _"Striving to turn complex ideas into elegant backend solutions."_  
